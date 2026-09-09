@@ -29,4 +29,4 @@ h = float(input())
 print(f"pp trapezu o bokach {a} {b} i {h} = {(a+b)*h/2}")
 #wzor na pp sześciokąta foremnego
 a = float(input())
-print(f"pp szesciokata foremnego o boku {a} = {6*(a**2*sqrt(3)/2)}")
+print(f"pp szesciokata foremnego o boku {a} = {3*a**2*sqrt(3)/2}")
